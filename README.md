@@ -2,6 +2,8 @@
 <h3 align="center">I am a ethical hacker , from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousforyou12&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousforyou12" /> </p>
+
+<a href="https://git.io/typing-svg" rel="nofollow">
 <img src="https://camo.githubusercontent.com/17606c1……442b535…" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLDS,+MY+NAME+IS+U7P4L+1N;I'M+19+YEAR'S+OLD;I'M+FROM+BANGLADESH;I'M+GRADUATED+SYSTEM+DEVELOPMENT;BE+WELCOME!+:%29" style="max-width: 100%;">
 - 🌱 I’m currently learning **Ethical Hacking**
 
